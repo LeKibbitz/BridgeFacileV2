@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "timestamp": "2025-07-01T12:09:05.065733",
+  "article_count": 64,
+  "reference_count": 64,
+  "structure": {
+    "articles": "Liste des articles avec leur contenu",
+    "references": "Graphe des références entre articles",
+    "metadata": "Métadonnées sur les articles"
+  }
+}

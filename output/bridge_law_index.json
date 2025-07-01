@@ -1,0 +1,649 @@
+{
+  "articles": {
+    "1": {
+      "title": "LOI 1 - Le jeu de cartes.......................................................................................................................... 17",
+      "references": [
+        "1"
+      ],
+      "referenced_by": [
+        "1"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "2": {
+      "title": "LOI 2 - Les étuis de tournoi ................................................................................................................... 17",
+      "references": [
+        "2"
+      ],
+      "referenced_by": [
+        "2"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "3": {
+      "title": "LOI 3 - Disposition des tables ................................................................................................................ 17",
+      "references": [
+        "3"
+      ],
+      "referenced_by": [
+        "3"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "4": {
+      "title": "LOI 4 - Les paires .................................................................................................................................. 18",
+      "references": [
+        "4"
+      ],
+      "referenced_by": [
+        "4"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "5": {
+      "title": "LOI 5 - Désignation des places ............................................................................................................... 18",
+      "references": [
+        "5"
+      ],
+      "referenced_by": [
+        "5"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "6": {
+      "title": "LOI 6 - Mélange et Donne ..................................................................................................................... 19",
+      "references": [
+        "6"
+      ],
+      "referenced_by": [
+        "6"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "7": {
+      "title": "LOI 7 - Contrôle de l’étui et des cartes ................................................................................................... 21",
+      "references": [
+        "7"
+      ],
+      "referenced_by": [
+        "7"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "8": {
+      "title": "LOI 8 - Ordre des Tours ......................................................................................................................... 22",
+      "references": [
+        "8"
+      ],
+      "referenced_by": [
+        "8"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "9": {
+      "title": "LOI 9 - Procédure à la suite d’une irrégularité ........................................................................................ 23",
+      "references": [
+        "9"
+      ],
+      "referenced_by": [
+        "9"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "10": {
+      "title": "LOI 10 - Arbitrage - Rectification ........................................................................................................... 24",
+      "references": [
+        "10"
+      ],
+      "referenced_by": [
+        "10"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "11": {
+      "title": "LOI 11 - Perte du droit à rectification .................................................................................................... 25",
+      "references": [
+        "11"
+      ],
+      "referenced_by": [
+        "11"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "12": {
+      "title": "LOI 12 - Pouvoirs discrétionnaires de l’arbitre ........................................................................................ 26",
+      "references": [
+        "12"
+      ],
+      "referenced_by": [
+        "12"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "13": {
+      "title": "LOI 13 - Nombre incorrect de cartes ...................................................................................................... 28",
+      "references": [
+        "13"
+      ],
+      "referenced_by": [
+        "13"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "14": {
+      "title": "LOI 14 - Carte(s) manquante(s) ............................................................................................................. 29",
+      "references": [
+        "14"
+      ],
+      "referenced_by": [
+        "14"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "15": {
+      "title": "LOI 15 - Mauvais étui ou mauvaise main ............................................................................................... 30",
+      "references": [
+        "15"
+      ],
+      "referenced_by": [
+        "15"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "16": {
+      "title": "LOI 16 - Informations autorisées et non autorisées ................................................................................ 31",
+      "references": [
+        "16"
+      ],
+      "referenced_by": [
+        "16"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "17": {
+      "title": "LOI 17 - La période des annonces .......................................................................................................... 33",
+      "references": [
+        "17"
+      ],
+      "referenced_by": [
+        "17"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "18": {
+      "title": "LOI 18 - Enchères .................................................................................................................................. 34",
+      "references": [
+        "18"
+      ],
+      "referenced_by": [
+        "18"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "19": {
+      "title": "LOI 19 - Contres et Surcontres ............................................................................................................... 35",
+      "references": [
+        "19"
+      ],
+      "referenced_by": [
+        "19"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "20": {
+      "title": "LOI 20 - Rappels et explications des déclarations ................................................................................... 36",
+      "references": [
+        "20"
+      ],
+      "referenced_by": [
+        "20"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "21": {
+      "title": "LOI 21 - Information erronée ................................................................................................................ 38",
+      "references": [
+        "21"
+      ],
+      "referenced_by": [
+        "21"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "22": {
+      "title": "LOI 22 - Fin des annonces ..................................................................................................................... 38",
+      "references": [
+        "22"
+      ],
+      "referenced_by": [
+        "22"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "23": {
+      "title": "LOI 23 - Déclaration comparable ........................................................................................................... 39",
+      "references": [
+        "23"
+      ],
+      "referenced_by": [
+        "23"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "24": {
+      "title": "LOI 24 - Carte exposée ou attaquée pendant les annonces..................................................................... 40",
+      "references": [
+        "24"
+      ],
+      "referenced_by": [
+        "24"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "25": {
+      "title": "LOI 25 - Changements de déclaration légaux ou illégaux ........................................................................ 41",
+      "references": [
+        "25"
+      ],
+      "referenced_by": [
+        "25"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "26": {
+      "title": "LOI 26 - Déclaration retirée, restrictions d’attaque ................................................................................ 42",
+      "references": [
+        "26"
+      ],
+      "referenced_by": [
+        "26"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "27": {
+      "title": "LOI 27 - Enchère insuffisante ................................................................................................................ 43",
+      "references": [
+        "27"
+      ],
+      "referenced_by": [
+        "27"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "28": {
+      "title": "LOI 28 - Déclaration considérée comme faite au tour de parole ............................................................. 44",
+      "references": [
+        "28"
+      ],
+      "referenced_by": [
+        "28"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "29": {
+      "title": "LOI 29 - Procédure suite à une déclaration hors tour ............................................................................. 44",
+      "references": [
+        "29"
+      ],
+      "referenced_by": [
+        "29"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "30": {
+      "title": "LOI 30 - Passe hors tour ........................................................................................................................ 45",
+      "references": [
+        "30"
+      ],
+      "referenced_by": [
+        "30"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "31": {
+      "title": "LOI 31 - Enchère hors tour .................................................................................................................... 46",
+      "references": [
+        "31"
+      ],
+      "referenced_by": [
+        "31"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "32": {
+      "title": "LOI 32 - Contre ou Surcontre hors tour .................................................................................................. 47",
+      "references": [
+        "32"
+      ],
+      "referenced_by": [
+        "32"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "33": {
+      "title": "LOI 33 - Déclarations simultanées ......................................................................................................... 47",
+      "references": [
+        "33"
+      ],
+      "referenced_by": [
+        "33"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "34": {
+      "title": "LOI 34 - Conservation du droit de déclarer ............................................................................................ 47",
+      "references": [
+        "34"
+      ],
+      "referenced_by": [
+        "34"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "35": {
+      "title": "LOI 35 - Déclarations inadmissibles ....................................................................................................... 48",
+      "references": [
+        "35"
+      ],
+      "referenced_by": [
+        "35"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "36": {
+      "title": "LOI 36 - Contres ou Surcontres inadmissibles ........................................................................................ 48",
+      "references": [
+        "36"
+      ],
+      "referenced_by": [
+        "36"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "37": {
+      "title": "LOI 37 - Action en violation de l’obligation de passer ............................................................................. 49",
+      "references": [
+        "37"
+      ],
+      "referenced_by": [
+        "37"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "38": {
+      "title": "LOI 38 - Enchère au-dessus du palier de 7.............................................................................................. 49",
+      "references": [
+        "38"
+      ],
+      "referenced_by": [
+        "38"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "39": {
+      "title": "LOI 39 - Déclaration après le Passe final ................................................................................................ 50",
+      "references": [
+        "39"
+      ],
+      "referenced_by": [
+        "39"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "40": {
+      "title": "LOI 40 - Entente entre partenaires ........................................................................................................ 51",
+      "references": [
+        "40"
+      ],
+      "referenced_by": [
+        "40"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "41": {
+      "title": "LOI 41 - Début du jeu de la carte ........................................................................................................... 53",
+      "references": [
+        "41"
+      ],
+      "referenced_by": [
+        "41"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "42": {
+      "title": "LOI 42 - Droits du mort ......................................................................................................................... 54",
+      "references": [
+        "42"
+      ],
+      "referenced_by": [
+        "42"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "43": {
+      "title": "LOI 43 - Limitations des droits du mort ................................................................................................. 55",
+      "references": [
+        "43"
+      ],
+      "referenced_by": [
+        "43"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "44": {
+      "title": "LOI 44 - Déroulement et procédure du jeu ............................................................................................ 56",
+      "references": [
+        "44"
+      ],
+      "referenced_by": [
+        "44"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "45": {
+      "title": "LOI 45 - Carte jouée .............................................................................................................................. 57",
+      "references": [
+        "45"
+      ],
+      "referenced_by": [
+        "45"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "46": {
+      "title": "LOI 46 - Désignation incomplète ou invalide d’une carte du mort ........................................................... 59",
+      "references": [
+        "46"
+      ],
+      "referenced_by": [
+        "46"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "47": {
+      "title": "LOI 47 - Reprise d’une carte jouée ......................................................................................................... 60",
+      "references": [
+        "47"
+      ],
+      "referenced_by": [
+        "47"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "48": {
+      "title": "LOI 48 - Cartes exposées du déclarant ................................................................................................... 61",
+      "references": [
+        "48"
+      ],
+      "referenced_by": [
+        "48"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "49": {
+      "title": "LOI 49 - Cartes exposées d’un joueur de la défense ............................................................................... 61",
+      "references": [
+        "49"
+      ],
+      "referenced_by": [
+        "49"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "50": {
+      "title": "LOI 50 - Dispositions concernant une carte pénalisée ............................................................................ 62",
+      "references": [
+        "50"
+      ],
+      "referenced_by": [
+        "50"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "51": {
+      "title": "LOI 51 - Deux cartes pénalisées ou plus ................................................................................................. 64",
+      "references": [
+        "51"
+      ],
+      "referenced_by": [
+        "51"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "52": {
+      "title": "LOI 52 - Manquement à l’obligation d’attaquer ou de jouer une carte pénalisée ..................................... 65",
+      "references": [
+        "52"
+      ],
+      "referenced_by": [
+        "52"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "53": {
+      "title": "LOI 53 - Attaque hors tour acceptée ...................................................................................................... 66",
+      "references": [
+        "53"
+      ],
+      "referenced_by": [
+        "53"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "54": {
+      "title": "LOI 54 - Entame hors tour face visible ................................................................................................... 67",
+      "references": [
+        "54"
+      ],
+      "referenced_by": [
+        "54"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "55": {
+      "title": "LOI 55 - Attaque hors tour du déclarant ................................................................................................ 68",
+      "references": [
+        "55"
+      ],
+      "referenced_by": [
+        "55"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "56": {
+      "title": "LOI 56 - Attaque hors tour d’un joueur de la défense ............................................................................. 68",
+      "references": [
+        "56"
+      ],
+      "referenced_by": [
+        "56"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "57": {
+      "title": "LOI 57 - Attaque et jeu prématurés par un joueur de la défense ............................................................. 69",
+      "references": [
+        "57"
+      ],
+      "referenced_by": [
+        "57"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "58": {
+      "title": "LOI 58 - Attaques ou jeux simultanés .................................................................................................... 70",
+      "references": [
+        "58"
+      ],
+      "referenced_by": [
+        "58"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "59": {
+      "title": "LOI 59 - Impossibilité d’attaquer ou de jouer comme exigé .................................................................... 70",
+      "references": [
+        "59"
+      ],
+      "referenced_by": [
+        "59"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "60": {
+      "title": "LOI 60 - Jeu à la suite d’un jeu illégal ..................................................................................................... 71",
+      "references": [
+        "60"
+      ],
+      "referenced_by": [
+        "60"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "61": {
+      "title": "LOI 61 - Ne pas fournir à la couleur - S’enquérir au sujet d’une renonce ................................................. 72",
+      "references": [
+        "61"
+      ],
+      "referenced_by": [
+        "61"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "62": {
+      "title": "LOI 62 - Correction d’une renonce ......................................................................................................... 73",
+      "references": [
+        "62"
+      ],
+      "referenced_by": [
+        "62"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "63": {
+      "title": "LOI 63 - Établissement d’une renonce ................................................................................................... 74",
+      "references": [
+        "63"
+      ],
+      "referenced_by": [
+        "63"
+      ],
+      "source_file": "Code2017-1.pdf"
+    },
+    "64": {
+      "title": "LOI 64 - Procédure après la consommation d’une renonce ..................................................................... 75",
+      "references": [
+        "64"
+      ],
+      "referenced_by": [
+        "64"
+      ],
+      "source_file": "Code2017-1.pdf"
+    }
+  },
+  "categories": {},
+  "stats": {
+    "total_articles": 64,
+    "total_references": 64
+  }
+}
