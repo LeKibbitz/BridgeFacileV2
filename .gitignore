@@ -26,3 +26,7 @@ var/
 .venv
 venv/
 ENV/
+# Fichiers générés
+output/*.json
+output/articles/*.json
+output/references/*.json
