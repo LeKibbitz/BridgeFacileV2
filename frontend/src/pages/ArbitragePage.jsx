@@ -11,7 +11,7 @@ export default function ArbitragePage() {
 
   return (
     <div className="arbitrage-page">
-      <h1>Documentation d'Arbitrage</h1>
+      <h1>TEST = Documentation d'Arbitrage</h1>
       
       <div className="tabs">
         <button 
