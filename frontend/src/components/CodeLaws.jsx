@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { supabase } from '../supabaseClient';
 
-function CodeLaws() {
+// Changez la première ligne de votre fonction :
+function CodeLaws({ onSelectLaw }) {  // ← Ajouter { onSelectLaw }
   const [laws, setLaws] = useState([]);
   const [loading, setLoading] = useState(true);
 
@@ -37,14 +38,21 @@ function CodeLaws() {
       
       {loading && <p>Chargement...</p>}
       
-      <div>
-        {laws.map((law) => (
-          <div key={law.id} style={{ padding: '15px', border: '1px solid #ddd', margin: '10px 0', borderRadius: '8px' }}>
-            <h4>Loi {law.law_number} - {law.title}</h4>
-            <p style={{ fontSize: '14px', color: '#666' }}>{law.section}</p>
-          </div>
-        ))}
-      </div>
+<div 
+  key={law.id} 
+  onClick={() => onSelectLaw && onSelectLaw(law.law_number)}
+  style={{ 
+    padding: '15px', 
+    border: '1px solid #ddd', 
+    margin: '10px 0', 
+    borderRadius: '8px',
+    cursor: 'pointer'
+  }}
+>
+  <h4>Loi {law.law_number} - {law.title}</h4>
+  <p style={{ fontSize: '14px', color: '#666' }}>{law.section}</p>
+</div>
+
     </div>
   );
 }
