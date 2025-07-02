@@ -11,18 +11,14 @@ function CodeLaws() {
 
   const fetchLaws = async () => {
     try {
-      console.log('Fetching laws...');
+      setLoading(true);
       const { data, error } = await supabase
         .from('code_laws')
         .select('*')
         .order('law_number::integer');
-
-      console.log('Data received:', data);
-      if (error) {
-        console.error('Error:', error);
-        throw error;
-      }
       
+      if (error) throw error;
+      console.log('Lois récupérées:', data?.length);
       setLaws(data || []);
     } catch (error) {
       console.error('Erreur:', error);
@@ -33,16 +29,17 @@ function CodeLaws() {
 
   return (
     <div>
-      <h2>Code International du Bridge 2017</h2>
-      <p>📚 {laws.length} lois trouvées</p>
-      <button onClick={fetchLaws}>🔄 Recharger</button>
+      <h2>BridgeFacile - Arbitrage</h2>
+      <h3>Code International du Bridge 2017</h3>
+      <p>📚 {laws.length} lois disponibles</p>
       
       {loading && <p>Chargement...</p>}
       
       <div>
         {laws.map((law) => (
-          <div key={law.id} style={{ padding: '10px', border: '1px solid #ddd', margin: '5px 0' }}>
+          <div key={law.id} style={{ padding: '15px', border: '1px solid #ddd', margin: '10px 0', borderRadius: '8px' }}>
             <h4>Loi {law.law_number} - {law.title}</h4>
+            <p style={{ fontSize: '14px', color: '#666' }}>{law.section}</p>
           </div>
         ))}
       </div>
