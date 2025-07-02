@@ -18,8 +18,8 @@ function CodeLaws() {
         .order('law_number::integer');
       
       if (error) throw error;
-      console.log('Lois récupérées:', data?.length);
       setLaws(data || []);
+      console.log('Lois récupérées:', data?.length);
       alert(`Nombre de lois: ${data?.length || 0}`);
 
     } catch (error) {
