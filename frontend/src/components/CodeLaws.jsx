@@ -20,6 +20,8 @@ function CodeLaws() {
       if (error) throw error;
       console.log('Lois récupérées:', data?.length);
       setLaws(data || []);
+      alert(`Nombre de lois: ${data?.length || 0}`);
+
     } catch (error) {
       console.error('Erreur:', error);
     } finally {
