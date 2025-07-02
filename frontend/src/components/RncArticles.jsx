@@ -16,7 +16,7 @@ export default function RncArticles() {
       const { data, error } = await supabase
         .from('rnc_articles')
         .select('*')
-        .order('article_number')
+        .order('article_number::integer')
       
       if (error) throw error
       setArticles(data || [])
