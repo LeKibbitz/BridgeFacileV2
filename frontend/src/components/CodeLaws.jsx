@@ -14,8 +14,9 @@ function CodeLaws() {
       console.log('Fetching laws...');
       const { data, error } = await supabase
         .from('code_laws')
-        .select('*');
-      
+        .select('*')
+        .order('law_number::integer');
+
       console.log('Data received:', data);
       if (error) {
         console.error('Error:', error);
